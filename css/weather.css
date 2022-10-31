@@ -1,0 +1,14 @@
+#weather {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    top: 150px;
+    right: 150px;
+
+    font-size: 120px;
+    color: white;
+} 

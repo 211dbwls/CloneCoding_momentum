@@ -1,0 +1,13 @@
+#quote {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width: 100vw;
+    min-height: 115vh;
+
+    font-size: 120px;
+    color: white;
+} 

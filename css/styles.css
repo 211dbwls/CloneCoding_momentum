@@ -1,0 +1,29 @@
+@import "reset.css";
+@import "login.css";
+@import "clock.css";
+@import "quotes.css";
+@import "todo.css";
+@import "weather.css";
+
+* {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    position: absolute;
+    z-index: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: no-repeat center;
+    background-size: cover;
+}
